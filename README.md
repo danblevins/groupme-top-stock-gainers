@@ -1,4 +1,4 @@
-# 📱 GroupMe Top Stock Gainers
+# 📈 [GroupMe Top Stock Gainers](https://miro.medium.com/max/700/1*pH1QFCu0uOPIFWiooJDUCg.png)
 
 ## About this Project
 
