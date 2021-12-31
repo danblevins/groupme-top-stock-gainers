@@ -1,4 +1,4 @@
-# 📱 GroupMe Top Stock Gainers Script
+# 📱 GroupMe Top Stock Gainers
 
 ## About this Project
 
